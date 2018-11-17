@@ -1,0 +1,10 @@
+{% load static %}
+<head>
+    <link rel="manifest" src='{% static "manifest.json" %}' />
+    <script src='{% static "initialize.js" %}'></script>
+    <script src='{% static "service-worker.js" %}'></script>
+</head>
+
+<button class="js-push-button" >
+  Enable Push Messages
+</button>

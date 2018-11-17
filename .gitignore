@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+notifier/__pycache__/settings.cpython-35.pyc
+notifier/__pycache__/urls.cpython-35.pyc
+*.pyo
+*.pyc
+.idea/*
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
